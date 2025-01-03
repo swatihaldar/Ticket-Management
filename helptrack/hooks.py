@@ -7,6 +7,7 @@ app_license = "mit"
 
 # Apps
 # ------------------
+fixtures = ["Custom Field", "Property Setter"]
 
 # required_apps = []
 
